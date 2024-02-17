@@ -1,0 +1,53 @@
+body{
+    width: 1100px;
+    border: 2px solid black;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+    header{
+        text-align: center;
+        padding-bottom: 40px;
+    }
+    h1{
+        color: brown;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+     .flower{
+     width: 10%;
+     float:left;
+    }
+    nav a{
+        font-size: 20px;
+        font-weight: bold;
+        text-decoration: none;
+        color: red;
+        padding-top: 60px;
+        padding: 0px 50px;
+    }
+    nav{
+        background-color:lightblue;
+        padding: 20px 0;
+    text-align: center;
+}
+aside{
+    width: 290px;
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+main{
+    width: 600px;
+    float: left;
+    margin: 10px;
+}
+footer{
+    text-align: center;
+    background-color: lightcoral;
+    color: black;
+    clear: left;
+}
+img{
+    width: 100%;
+    padding-top: 10px;
+}
